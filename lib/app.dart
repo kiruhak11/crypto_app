@@ -6,6 +6,6 @@ class CryptoApp extends StatelessWidget {
   const CryptoApp({super.key});
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(title: 'Crypto App', theme: darkTheme, routes: routes);
+    return MaterialApp(title: 'Crypto pp', theme: darkTheme, routes: routes);
   }
 }
